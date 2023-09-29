@@ -129,7 +129,7 @@ export default function PageEditor({pageName, pageId, workSpaceId }) {
       alert("You did not enter anything please try again")
       return
     }
-
+    
     setLoadingButton('code')
     await actionCodePage(pageId, pageName, editorContent, codeQuestion)
     await getPageContent();

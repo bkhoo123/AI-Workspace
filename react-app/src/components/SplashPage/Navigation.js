@@ -36,7 +36,12 @@ export default function Navigation() {
           <NavLink to="/" className="splash-navlink" >
             <div class="logo">
                 <img style={{width: 45, height: 45}} src={AI} alt="" />
+                <span className="space">
+                    Space
+                </span>
+                
             </div>
+
           </NavLink>
           <Product workInProgress={workInProgress}/>
           <Download workInProgress={workInProgress}/>

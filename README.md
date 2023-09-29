@@ -15,20 +15,21 @@ Backend Technologies
 
 Contents
 ===
-- [Database Diagram](#database-diagram)
-- [Splash Page](#splash)
-- [Login/Signup](#logging-in--signing-up)
-- [Tutorial/AI](#tutorial--ai-explanation-page)
-- [User Workspace](#user-workspace)
-- [Users Pages](#users-pages)
-- [Blocks/Content](#blocks--content)
-- [Artificial Intelligence](#artificial-intelligence)
+- [Contents](#contents)
+  - [Database Diagram](#database-diagram)
+  - [Splash](#splash)
+  - [Logging In / Signing Up](#logging-in--signing-up)
+  - [Tutorial / AI Explanation Page](#tutorial--ai-explanation-page)
+  - [User Workspace](#user-workspace)
+  - [Users Pages](#users-pages)
+  - [Blocks / Content](#blocks--content)
+  - [Artificial Intelligence](#artificial-intelligence)
 
 ## Database Diagram
 ![Diagram](https://github.com/bkhoo123/Idea-Fusion/assets/102838003/00036e65-6012-4265-b478-c7a910ece502)
 
 ## Splash
-![Aidea](https://github.com/bkhoo123/Idea-Fusion/assets/102838003/538ddc2d-2ff3-499c-9a02-fc30094d948d)
+![AI Space](https://github.com/bkhoo123/Idea-Fusion/assets/102838003/538ddc2d-2ff3-499c-9a02-fc30094d948d)
 
 Upon landing on the website, users will see a visually enticing splash page. With Options to login or sign up for an account. 
 

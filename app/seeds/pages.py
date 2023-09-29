@@ -9,21 +9,21 @@ def seed_pages():
             'name': 'Getting Started',
             'content': {
                 "ops": [
-                    {"insert": "Welcome to AIdea!\n", "attributes": {"header": 1}},
+                    {"insert": "Welcome to AI Space!\n", "attributes": {"header": 1}},
                     {"insert": "\n"},
                     {"insert": "Here are the basics:\n"},
                     {"insert": "Click anywhere and just start typing\n"},
-                    {"insert": "See the buttons up top? You can use AIdea to make your workflow easier.\n"},
+                    {"insert": "See the buttons up top? You can use AI Space to make your workflow easier.\n"},
                     {"insert": "Click the + New Page button at the bottom of your sidebar to add a new page\n"},
                     {"insert": "Click templates in your sidebar to get started with pre-built pages\n"},
-                    {"insert": "Press '/' to see a list of all AIdea commands to have the AI work for you.\n"},
+                    {"insert": "Press '/' to see a list of all AI Space commands to have the AI work for you.\n"},
                     {"insert": "Summarize will summarize the content on your page in a digestable format.\n"},
-                    {"insert": "Story Time will have AIdea create a story for you based on the topic you choose in the prompt\n"},
+                    {"insert": "Story Time will have AI Space create a story for you based on the topic you choose in the prompt\n"},
                     {"insert": "Improve Me will improve your current page content and make it sound much better.\n"},
                     {"insert": "I'm a idiot will help you create content that even a child can understand based on your page content.\n"},
                     {"insert": "Code for me will create code for you based on the parameters of the page.\n"},
                     {"insert": "Outline will create an outline of the content you have so far.\n"},
-                    {"insert": "Harness the power of AIdea and you never have to think again."},
+                    {"insert": "Harness the power of AI Space and you never have to think again."},
                 ]
             }
         },
@@ -56,16 +56,16 @@ def seed_pages():
         },
         {
             'workspace_id': 1,
-            'name': 'AIdea Board',
+            'name': 'AI Space Board',
             'content': {
                 "ops": [
-                    {"insert": "For When You're Out of Ideas AIdea can take care of the creative process for you. \n", "attributes": {"header": 1}},
+                    {"insert": "For When You're Out of Ideas AI Space can take care of the creative process for you. \n", "attributes": {"header": 1}},
                     {"insert": "\n"},
-                    {"insert": "List of all AIdea Commands:\n"},
+                    {"insert": "List of all AI Space Commands:\n"},
                     {"insert": "Must Type '/' to start Commands:\n"},
                     {"insert": "/Improve Me: Will revise and improve anything you create but much better. \n"},
                     {"insert": "/Story Time: Help you publish a book or a story on any topic and you don't even have to do the thinking.\n"},
-                    {"insert": "/Writers Block: Will give you a random AIdea to help with your blocked process\n"},
+                    {"insert": "/Writers Block: Will give you a random AI Space to help with your blocked process\n"},
                     {"insert": "/Outline: Will create an outline for any subject or topic of your choice that you're writing about. \n"},
                     {"insert": "/Brain Dead: When you don't want to think anymore and just let AI do everything for you. \n"},
                     
@@ -77,7 +77,7 @@ def seed_pages():
             'name': 'Journal Prompt',
             'content': {
                 "ops": [
-                    {"insert": "AIdea can Generate Journal Prompts for you. \n", "attributes": {"header": 1}},
+                    {"insert": "AI Space can Generate Journal Prompts for you. \n", "attributes": {"header": 1}},
                     {"insert": "\n"},
                     {"insert": "If you click the journal prompt button it will generate a random journal prompt for you.\n"},
                     {"insert": "This should help you create journals with ease without having to think about what to write about."},
@@ -86,10 +86,10 @@ def seed_pages():
         },
         {
             'workspace_id': 1,
-            'name': 'AIdea Story Time',
+            'name': 'AI Space Story Time',
             'content': {
                 "ops": [
-                    {"insert": "Lets have AIdea tell us a Story here\n", "attributes": {"header": 1}},
+                    {"insert": "Lets have AI Space tell us a Story here\n", "attributes": {"header": 1}},
                     {"insert": "\n"},
                     {"insert": "Press the '/' Key\n"},
                     {"insert": "Enter 'Story Time'\n"},
