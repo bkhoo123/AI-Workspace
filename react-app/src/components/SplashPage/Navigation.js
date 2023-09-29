@@ -37,7 +37,7 @@ export default function Navigation() {
             <div class="logo">
                 <img style={{width: 45, height: 45}} src={AI} alt="" />
                 <span className="space">
-                    Space
+                    Workspace
                 </span>
                 
             </div>

@@ -29,7 +29,7 @@ Contents
 ![Diagram](https://github.com/bkhoo123/Idea-Fusion/assets/102838003/00036e65-6012-4265-b478-c7a910ece502)
 
 ## Splash
-![AI Space](https://github.com/bkhoo123/Idea-Fusion/assets/102838003/538ddc2d-2ff3-499c-9a02-fc30094d948d)
+![AI Workspace](https://github.com/bkhoo123/Idea-Fusion/assets/102838003/538ddc2d-2ff3-499c-9a02-fc30094d948d)
 
 Upon landing on the website, users will see a visually enticing splash page. With Options to login or sign up for an account. 
 

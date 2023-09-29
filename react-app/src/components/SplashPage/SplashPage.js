@@ -28,13 +28,13 @@ export default function SplashPage() {
           
           <img className="title-img" src={NotionTitle} alt="" />  
 
-          <div className="title-caption">AI Space is the connected workspace where better, faster work happens and ideas come to life.</div>
+          <div className="title-caption">AI Workspace is the connected workspace where better, faster work happens and ideas come to life.</div>
 
-          <button onClick={handleSignupClick} className="splash-signup">Get AI Space Free <span>&#x2192;</span> </button>
+          <button onClick={handleSignupClick} className="splash-signup">Get AI Workspace Free <span>&#x2192;</span> </button>
 
           <img style={{marginTop: 20}} src={SplashImage} alt="" />
 
-          <div className="millions">Millions run on AI Space every day</div>
+          <div className="millions">Millions run on AI Workspace every day</div>
 
           <div className="powering">Powering the world's best teams, from next-generation startups to established enterprises.</div>
 

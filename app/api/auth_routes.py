@@ -84,14 +84,14 @@ def sign_up():
                 'name': 'Getting Started',
                 'content': {
                     "ops": [
-                        {"insert": "Welcome to AI Space!\n", "attributes": {"header": 1}},
+                        {"insert": "Welcome to AI Workspace!\n", "attributes": {"header": 1}},
                         {"insert": "\n"},
                         {"insert": "Here are the basics:\n"},
                         {"insert": "Click anywhere and just start typing\n"},
                         {"insert": "See the ⋮⋮ to the left of this text on hover? Click and drag to move this line\n"},
                         {"insert": "Click the + New Page button at the bottom of your sidebar to add a new page\n"},
                         {"insert": "Click templates in your sidebar to get started with pre-built pages\n"},
-                        {"insert": "Press '/' to see a list of all AI Space commands to have the AI work for you.\n"},
+                        {"insert": "Press '/' to see a list of all AI Workspace commands to have the AI work for you.\n"},
                     ]
                 }
             },
@@ -120,31 +120,31 @@ def sign_up():
                 }
             },
             {
-                'name': 'AI Space Board',
+                'name': 'AI Workspace Board',
                 'content': {
                     "ops": [
-                        {"insert": "For When You're Out of Ideas AI Space can take care of the creative process for you. \n", "attributes": {"header": 1}},
+                        {"insert": "For When You're Out of Ideas AI Workspacecan take care of the creative process for you. \n", "attributes": {"header": 1}},
                         {"insert": "\n"},
-                        {"insert": "List of all AI Space Commands:\n"},
+                        {"insert": "List of all AI Workspace Commands:\n"},
                         {"insert": "Must Type '/' to start Commands:\n"},
                         {"insert": "/Improve Me: Will revise and improve anything you create but much better. \n"},
                         {"insert": "/Story Time: Help you publish a book or a story on any topic and you don't even have to do the thinking.\n"},
-                        {"insert": "/Writers Block: Will give you a random AI Space to help with your blocked process\n"},
+                        {"insert": "/Writers Block: Will give you a random AI Workspace to help with your blocked process\n"},
                         {"insert": "/Outline: Will create an outline for any subject or topic of your choice that you're writing about. \n"},
                         {"insert": "/Brain Dead: When you don't want to think anymore and just let AI do everything for you. \n"},
-                        {"insert": "Harness the power of AI Space and you never have to think again."},
+                        {"insert": "Harness the power of AI Workspace and you never have to think again."},
                     ]
                 }
             },
             {
-                'name': 'AI Space Revision',
+                'name': 'AI Workspace Revision',
                 'content': {
                     "ops": [
-                        {"insert": "AI Space can revise and clean up everything from your notes, to your resumes, and a lot more. \n", "attributes": {"header": 1}},
+                        {"insert": "AI Workspace can revise and clean up everything from your notes, to your resumes, and a lot more. \n", "attributes": {"header": 1}},
                         {"insert": "\n"},
-                        {"insert": "AI Space will dramatically make whatever you're working on sound a lot better.\n"},
+                        {"insert": "AI Workspace will dramatically make whatever you're working on sound a lot better.\n"},
                         {"insert": "So that you can spend your time just jotting out chaotic ideas.\n"},
-                        {"insert": "Just let AI Space handle the heavy lifting of making you actually sound impressive.\n"},
+                        {"insert": "Just let AI Workspace handle the heavy lifting of making you actually sound impressive.\n"},
                         {"insert": "Press the '/' Key\n"},
                         {"insert": "Enter 'Improve Me'\n"},
                         {"insert": "And watch as it creates a story for you on this page"}
@@ -152,10 +152,10 @@ def sign_up():
                 }
             },
             {
-                'name': 'AI Space Story Time',
+                'name': 'AI Workspace Story Time',
                 'content': {
                     "ops": [
-                        {"insert": "Lets have AI Space tell us a Story here\n", "attributes": {"header": 1}},
+                        {"insert": "Lets have AI Workspace tell us a Story here\n", "attributes": {"header": 1}},
                         {"insert": "\n"},
                         {"insert": "Press the '/' Key\n"},
                         {"insert": "Enter 'Story Time'\n"},
